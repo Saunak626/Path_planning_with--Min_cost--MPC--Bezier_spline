@@ -1,0 +1,9 @@
+Path_planning_with--Min_cost--MPC--Bezier_spline
+
+1. Min_cost; choose the min cost from all cadidates trajectory
+2. MPC: using the vehicle dynmaic model 
+3. Bezier_spline: using the Bezier_spline as the reference line to calculate diff-cost
+
+
+How to run?
+Python3 main.py
